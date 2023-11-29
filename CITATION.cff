@@ -33,7 +33,7 @@ identifiers:
   - type: url
     value: 'https://github.com/upslis/2019LibrarianCensusPh'
     description: 2019 Librarian Census Philippines GitHub Repository
-repository-code: 'https://doi.org/10.5281/zenodo.6864788'
+repository-code: 'https://github.com/upslis/2019LibrarianCensusPh'
 abstract: >-
   This research delves into the landscape of librarianship
   in the Philippines, aiming to establish population
