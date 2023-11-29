@@ -31,7 +31,7 @@ copyright:
   holder: Dan Anthony Dorado
   year: 2023
 funding: "The author received no specific funding for this work."
-format: html
+format: docx
 toc: FALSE
 highlight-style: github
 number-sections: FALSE
@@ -604,16 +604,6 @@ We affirm that:
 -   There are no affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this work.
 -   All potential sources of conflict, whether actual or perceived, have been disclosed and reviewed, and none were found to be relevant to this work.
 -   This statement is provided to maintain transparency and uphold the integrity of our work, ensuring that all findings and conclusions are derived from unbiased, objective analysis and research.
-
-\newpage
-
-# Appendix
-
-Printed is the environment and software versions used to create this document.
-
-```{r}
-sessionInfo()
-```
 
 \newpage
 

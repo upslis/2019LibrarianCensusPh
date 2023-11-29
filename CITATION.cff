@@ -1,0 +1,63 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 2019 Librarian Census Ph
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - orcid: 'https://orcid.org/0000-0002-2844-0732'
+    given-names: Dan Anthony
+    family-names: Dorado
+    email: dan@slis.upd.edu.ph
+    affiliation: UP School of Library and Information Studies
+  - given-names: Kathleen Lourdes
+    family-names: Obille
+    email: kate@slis.upd.edu.ph
+    affiliation: UP School of Library and Information Studies
+    orcid: 'https://orcid.org/0000-0003-2365-9011'
+  - name: UP School of Library and Information Studies
+    address: >-
+      SLIS New Building, Quirino Avenue cor. Africa Street,
+      UP Campus, Diliman
+    city: Quezon City
+    country: PH
+    post-code: '1101'
+    email: info@slis.upd.edu.ph
+    region: University of the Philippines Diliman
+    location: 'SLIS New Building, Quirino Avenue cor. Africa Street'
+    alias: UP SLIS
+identifiers:
+  - type: url
+    value: 'https://github.com/upslis/2019LibrarianCensusPh'
+    description: 2019 Librarian Census Philippines GitHub Repository
+repository-code: 'https://doi.org/10.5281/zenodo.6864788'
+abstract: >-
+  This research delves into the landscape of librarianship
+  in the Philippines, aiming to establish population
+  statistics concerning librarians in the region. Conducted
+  by the University of the Philippines School of Library and
+  Information Studies (UPSLIS) from November 2018 to October
+  2019, this study is the first to gather census data on
+  Filipino librarians. Utilizing an online questionnaire,
+  the survey garnered 684 responses, providing a population
+  estimate with a 4% margin of error. The findings
+  underscore the significance of accurate demographic data
+  in various sectors, including policymaking, educational
+  planning, workforce development, and professional
+  advocacy. The article emphasizes the role of population
+  statistics in promoting evidence-based decision-making,
+  resource allocation, and the enhancement of library
+  services. This research aims to further the library
+  profession and foster research culture among Philippine
+  libraries by illuminating the importance of population
+  statistics.
+keywords:
+  - National estimates
+  - population parameters
+  - Filipino Librarian profile
+  - data-driven decisions
+license: CC0-1.0
+version: '1.0'
