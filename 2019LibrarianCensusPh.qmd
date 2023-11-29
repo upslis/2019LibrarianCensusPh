@@ -1,0 +1,620 @@
+---
+title: "Exploring the Landscape of Librarianship in the Philippines"
+subtitle: "Establishing the Profession's Population Parameter Estimates"
+date: last-modified
+author:
+  - name: Dan Anthony Dorado
+    orcid: 0000-0002-2844-0732
+    email: dddorado@up.edu.ph
+    affiliation: 
+      - name: UP School of Library and Information Studies
+        city: Quezon City
+        state: MM
+        url: httP://upslis.info
+  - name: Kathleen Lourdes Obille
+    orcid: 0000-0003-2365-9011
+    email: kbobille@up.edu.ph
+    affiliation: 
+      - name: UP School of Library and Information Studies
+        city: Quezon City
+        state: MM
+        url: httP://upslis.info
+editor: visual
+abstract: > 
+  This research delves into the landscape of librarianship in the Philippines, aiming to establish population statistics concerning librarians in the region. Conducted by the University of the Philippines School of Library and Information Studies (UPSLIS) from November 2018 to October 2019, this study is the first to gather census data on Filipino librarians. Utilizing an online questionnaire, the survey garnered 684 responses, providing a population estimate with a 4% margin of error. The findings underscore the significance of accurate demographic data in various sectors, including policymaking, educational planning, workforce development, and professional advocacy. The article emphasizes the role of population statistics in promoting evidence-based decision-making, resource allocation, and the enhancement of library services. This research aims to further the library profession and foster research culture among Philippine libraries by illuminating the importance of population statistics.
+keywords:
+  - National estimates
+  - population parameters
+  - Filipino Librarian profile
+  - data-driven decisions
+copyright: 
+  holder: Dan Anthony Dorado
+  year: 2023
+funding: "The author received no specific funding for this work."
+format: html
+toc: FALSE
+highlight-style: github
+number-sections: FALSE
+fig-width: 6
+fig-align: 'center'
+papersize: letter
+bibliography: https://api.citedrive.com/bib/3bee84cb-146a-42cc-b792-5d7562b067f8/references.bib?x=eyJpZCI6ICIzYmVlODRjYi0xNDZhLTQyY2MtYjc5Mi01ZDc1NjJiMDY3ZjgiLCAidXNlciI6ICI2NzA1IiwgInNpZ25hdHVyZSI6ICJhZjViYWZhMTFiMzJjYjUyNTNmYTdiODY1OGU1NmIwNGRlYTc2ZTk0ZWUxMjhlMDU1NjhkMzBmYmJjMTQ5M2EzIn0=/bibliography.bib
+link-citations: true
+csl: apa.csl
+crossref:
+  fig-title: Figure
+  tbl-title: Table
+  title-delim: " "
+---
+
+# Introduction
+
+Librarianship in the Philippines is a dynamic and evolving field, adapting to the rapid technological advancements and changes in information consumption. This profession has expanded its horizons to include the traditional roles of book management and lending and information literacy, digital resources, community engagement, research support, and more. This study, conceived against this vibrant backdrop, aims to offer a granular understanding of the current state, challenges, opportunities, and prospects of librarianship in the country by developing a national population estimate for librarians. This data about librarians is vital for effective decision-making, resource allocation, and professional advocacy in the library profession. Population statistics play a fundamental role in shaping various aspects of society, including educational planning, labor market analysis, and policy formulation [@Thygesen2010].
+
+The Philippines, with its diverse and rapidly evolving library landscape, requires comprehensive population statistics to support evidence-based strategies that foster the growth and development of the library workforce. This report examines the significance of population statistics on librarians in the Philippines, highlighting their contribution to informed decision-making, resource optimization, and enhanced library services.
+
+A perfect example of where this type of information could have been most helpful is when a lawmaker and the head of The National Library were misinformed about the true nature of librarianship in the Philippines, as published in *Philippine Star* [@Adel2020]. This incident was immediately rectified by a Board for Librarians member and a library school dean. Without immediate intervention, this could have resulted in the misappropriation of resources and poor legislation that could significantly impact the library profession. Having published population statistics about the work will aid systematic data collection and analysis to support evidence-based planning and decision-making for the sustainable growth of the librarian workforce in the country.
+
+## Purpose and Scope
+
+This study aims to comprehensively understand the librarian profession in the Philippines by establishing population parameters. By doing so, it seeks to offer insights into librarians' demographics, professional landscapes, educational attainments, affiliations, roles, challenges, and aspirations. These population parameters are crucial for data-driven decision-making, enabling researchers to make informed choices when formulating hypotheses, designing studies, or identifying gaps in the literature. Policymakers can also benefit from these parameters as they can tailor policies to address specific needs, challenges, and opportunities within the profession, creating an environment conducive to the growth and sustainability of librarianship. Additionally, professional organizations can use the insights from this study to better serve their members and the broader librarian community by tailoring their programs, initiatives, and strategies. The implications of this study include advancing research in librarianship, implementing strategic policies that have a tangible impact, empowering professional organizations to make informed decisions, and elevating the profession by addressing challenges and harnessing opportunities. Overall, this study is a foundational pillar for understanding, advancing, and promoting the librarianship profession in the Philippines, ensuring a promising future for all involved.
+
+\newpage
+
+# Review of Literature
+
+Research regarding demographic studies of librarians is scarce. Compared to certain professions or industries, librarianship receives less attention in research due to its significance, impact, or relevance in a particular context. For example, professions such as healthcare, education, business, and technology are often the focus of extensive research, given their wide-ranging implications and societal importance [@Brock2016]. Other fields like psychology, sociology, and economics often explore various professions and occupations to investigate job satisfaction, work-life balance, career development, and organizational behavior[@Judge2001] [@Setiawan2019]. Furthermore, research subjects can also vary based on temporal and contextual factors. For instance, certain professions or industries may gain prominence as research subjects in response to emerging challenges or societal trends [@Rahmani2022]. Examples include studies on the impact of automation on jobs, the gig economy, or the effects of the COVID-19 pandemic on specific professions. Therefore, research such as this is crucial to gain more exposure and insight into the library profession.
+
+Filipino librarians are recognized as professionals in their field, as they must pass a licensure examination provided by the state [@Yap2023]. This examination ensures librarians possess the necessary knowledge and skills to perform their duties effectively. This has led to a growing emphasis on the competencies of modern Filipino librarians. A study conducted in 2017 examined the perceived competencies of Filipino librarians and highlighted the importance of keeping up with advancements in library science and computer science [@Santos2017]. This suggests that Filipino librarians need to continuously update their skills and knowledge to meet the evolving needs of their profession [@Floro; @Fernandez2015; @Yap2016; @Austria2020; @Frias2020].
+
+## Demographic Data Gap
+
+Demographic data collection of librarians is a critical aspect of research and understanding the experiences and characteristics of librarians in different contexts. However, including demographic information on librarians in research reports is often lacking or incomplete [@VanScoy2017]. This gap in data collection is evident in various areas of librarianship, including recruitment/retention and leadership. For example, research on minority librarians has focused on these areas but often fails to include comprehensive demographic information.
+
+One area of librarianship that has received limited attention regarding demographic data collection is academic/research librarians with subject doctorates. Despite recent efforts to recruit these librarians, there is a lack of literature exploring their demographic profile, educational background, paths into librarianship, and range of positions. Understanding the demographic characteristics of this group is essential for providing information to the academic/research library community and attracting advanced degree holders to consider a career in librarianship [@Lindquist2008].
+
+In the field of digital librarianship, there is a need to collect demographic data to identify the technical skills required for these positions. As libraries and research institutions continue to work on digital collections, digital librarians must possess specialized skills to keep up with current web technology trends. A study analyzing technical skills sought for digital librarian positions found that current students and practicing librarians need additional non-curricular opportunities to build competency in these specialized areas [@Tzoc2011].
+
+Demographic data collection is also essential in understanding the profile of special librarians in specific regions. A study profiling Caribbean special librarians collected data on demographics, skills, and professional progress [@Gosine-Boodoo2006]. The study highlighted gender, qualifications, length of professional service, job functions, perception of skills, and development opportunities. This demographic data can provide insights into the characteristics and experiences of special librarians in the Caribbean region.
+
+In the context of collaboration between teacher librarians and their colleagues, demographic data can help understand the roles and characteristics of effective partnerships [@Merga2019]. Strong associations between librarians and teachers can enhance students' learning experiences and outcomes. Collecting demographic data on teacher librarians' collaboration ideas can provide valuable insights into improving school literacy and literature learning.
+
+## Data Collection Agents
+
+In the U.S., data about a specific profession, like librarians, are collected by the U.S. Bureau of Labor Statistics (BLS). Data collected are then used to create industry profiles. These industry profiles, like librarians and media collections specialists, provide valuable insights into employment trends, job outlook, educational requirements, and median annual wages [@BLS2023]. These variables are analyzed to generate statistical summaries, reports, and publications on employment and wage trends. These reports provide valuable insights for policymakers, researchers, job seekers, and other stakeholders interested in labor market information. In the case of the Philippines, the closest to this type of data collection is done by the Department of Labor and Employment [@DOLE2023]. They do not have this industry profile, but data about a specific profession is available through the Professional Regulation Commission (PRC).
+
+The American Library Association (ALA) tracks the demographics of its members through several mechanisms and initiatives [@ALA2017]. ALA periodically conducts surveys among its members to gather demographic information. These surveys may include questions about age, gender, race/ethnicity, educational background, job title, years of experience, and other relevant demographic factors. The responses obtained from these surveys provide valuable data for understanding the demographics of the membership base. ALA also maintains member profiles and databases that capture information about individual members. These profiles may include demographic data provided during the registration or renewal process. The association can analyze this data to gain insights into the composition of its membership.
+
+Philippine Librarians Association, Inc. (PLAI), the counterpart of the ALA in the Philippines, has tried to collect the same data of its members but has yet to publish any dataset or statistics. Outside of the PRC, the directory developed by Dante @Perez2002 is the only published work that tried to collect data on all Filipino librarians.
+
+\newpage
+
+# Methodology
+
+This study utilized an exploratory, descriptive quantitative approach to develop an occupational baseline profile of Filipino librarians. The project aimed to summarize and visualize critical patterns in the data.
+
+## Instrument
+
+The questionnaire was developed in 2017 by @Taban to identify the minimum questions for a librarian occupational census. It was tested and refined based on feedback. This study represents the first wide-scale implementation of the tool. The online format enabled broad reach but may limit respondents without digital access. Outliers likely reflect unfamiliarity with the tool and data entry errors. The questionnaire also included an informed consent page informing participants that their responses would be reused for further research and published as a separate dataset. This was done to promote transparency and ensure that participants were fully aware of how their data might be used.
+
+## Ethical Considerations
+
+All participants were informed of their rights, including the right to withdraw from the study at any point without any consequences. We assured all participants that their responses would remain confidential. Identifying information was removed, and pseudonyms were used to ensure anonymity once the dataset was published.
+
+## Data Gathering
+
+The researchers used Mentimeter to provide a real-time visualization report of the data gathered. Also, as presented at a conference, it was hoped that a quick view of the data could be delivered after the participants responded. However, due to a lack of time, the questionnaire and the link were only introduced during the 2018 PLAI Congress. The researchers also posted the survey link in the official Facebook group of the different PLAI regional councils to collect responses from librarians who were not present during the PLAI Congress 2018. Six hundred eighty-four responses were recorded that can be used in making statistical inferences with a 4% margin of error.
+
+The dataset, stripped of identifying information, has been uploaded to `Zenodo`, a public research data repository. It is available for academic purposes and can be accessed here <https://doi.org/10.5281/zenodo.6864788>
+
+## Data Cleaning and Preparation
+
+```{r Preview, warning=FALSE, include=FALSE}
+library(tidyverse)
+library(knitr)
+```
+
+```{r Colnames, echo=FALSE, warning=FALSE}
+colnames(read_csv("librariancensus.csv"))
+```
+
+The raw CSV data exported from the `Mentimeter` was inspected and cleaned in RStudio[@RStudio] to prepare it for analysis. Rows containing only timestamp information were removed, as these represented incomplete responses. Categorical variables were converted from character to factor types to reflect the nature of the questionnaire items. Frequency distributions for categorical variables were examined using bar charts.
+
+Numerical variables were summarized through histograms, overlapping boxplots, violin plots, and dot plots. Outliers were trimmed in the visualizations to prevent skewing, but statistical measures were calculated using the raw, unfiltered data. An accompanying codebook detailed the exact outlier trimming methods used.
+
+Open-ended responses underwent text mining analysis to determine overall sentiment. Word counts and proximities were used to generate a dendrogram visualizing relationships.
+
+Additional variables were created to facilitate summarization, such as collapsing the age variable into groups:
+
+21 to 30\
+31 to 40\
+41 to 50\
+51 to 60\
+Greater than 60
+
+This data cleaning and preparation stage formatted the raw data into a tidy form for further exploratory analysis and visualization using tools like those in the `tidyverse` package. The codebook and documentation detailed all steps taken, ensuring transparency and reproducibility, and can be accessed here [10.5281/zenodo.6864788](10.5281/zenodo.6864788).
+
+## Data Analysis
+
+Data analysis was conducted using RStudio 2022.02.3+492 "Prairie Trillium" Release on a Windows operating system [@RStudio]. The programming language used was R version 4.2.1.[@R]. Data manipulation and visualization relied primarily on the tidyverse package (version 1.3.2)[@tidyverse], which provides tools like `dplyr`, `tidyr`, `ggplot2`, etc., for data wrangling and plotting. The `tm` package (version 0.7-8)[@tm] was utilized for text mining and natural language processing.
+
+The data set was loaded into RStudio and initially explored using functions like `str()`, `summary()`, and `glimpse()` to understand the structure, variables, data types, and basic summary statistics. Any necessary data cleaning or preprocessing steps, like handling missing values, were performed at this stage.
+
+For analysis, data was manipulated using tidyverse tools like `filter()`, `mutate()`, `group_by()`, and `summarize()` to filter rows, create new variables, group data, and generate summary statistics. Data visualizations like bar charts, histograms, and box and whisker plots were created using ggplot2 to understand relationships and distributions.
+
+The `tm` package was used for text data to convert text to a corpus, clean, and transform the text by removing stopwords, stemming, etc. Text mining techniques like topic modeling and creating document-term matrices were applied using `tm` functions.
+
+All data analysis was reproducible using R Markdown documents. The code was modularized into reusable functions to ensure clarity and reproducibility. All preprocessing steps, analysis code, and results were documented. The final report was compiled from R Markdown to share findings [@authors].
+
+```{r Ingress, include=FALSE}
+# Load needed package
+library(tidyverse)
+library(plotly)
+library(tm)
+
+#Load the raw "librariancensus.csv" dataset
+dataset <- read_rds("librariancensus.rds")
+
+#controls how many digits will be printed
+options(digits=4) 
+
+#Initialize a pseudorandom number generator to obtain the same output during the simulation
+set.seed(12)
+```
+
+\newpage
+
+# Results and Finding
+
+| Variable                   |                    | Population Estimate |
+|:---------------------------|:-------------------|:-------------------:|
+| Gender                     |                    |                     |
+|                            | Female             |         78%         |
+|                            | Male               |         17%         |
+|                            | With diverse SOGIE |         4%          |
+|                            | Prefer not to say  |         1%          |
+| Age Group                  |                    |                     |
+|                            | 21-30              |         44%         |
+|                            | 31-40              |         30%         |
+|                            | 41-50              |         18%         |
+|                            | 51-60              |         7%          |
+|                            | Greater than 60    |         1%          |
+| Location                   |                    |                     |
+|                            | NCR                |         41%         |
+|                            | Luzon              |         36%         |
+|                            | Visayas            |         10%         |
+|                            | Mindanao           |         13%         |
+| Filipino as First Language |                    |                     |
+|                            | Yes                |         79%         |
+|                            | No                 |         21%         |
+
+: \
+*Demographics of Librarians in the Philippines* {#tbl-demographics}
+
+## Gender Distribution
+
+The gender imbalance in the librarian profession, with a significant proportion of female librarians compared to male librarians, raises concerns about equal opportunities and fair representation. Research has shown that women are often underrepresented in library leadership positions, which can perpetuate gender disparities and limit the diversity of perspectives within the profession [@Bladek2019]. To address this issue, it is essential to implement strategies that promote gender equality and ensure all individuals have equal opportunities for career advancement and leadership roles.
+
+The proportions of librarians with diverse sexual orientations, gender identity, and expression (SOGIE) and those who prefer not to disclose this information highlight the importance of fostering an inclusive and respectful environment within the library profession. Research has shown that individuals from diverse SOGIE backgrounds may face unique challenges and barriers in the workplace, including discrimination and bias [@Chun2014]. Therefore, it is crucial to continue efforts to create a safe and inclusive space that recognizes and values gender diversity. This can be achieved by implementing diversity and inclusion initiatives, such as training programs, policies, and support networks, that promote understanding, acceptance, and equal treatment for all individuals, regardless of their SOGIE.
+
+Understanding the gender proportions within the librarian workforce can inform the development of library services, programs, and community engagement activities that resonate with the diverse gender composition of the profession. For example, research has shown that women are more likely than men to use library services and participate in library programs [@King1995]. By considering the gender preferences and interests of library users, librarians can tailor their services and programs to meet their diverse clientele's needs better. This can include offering gender-specific programs, creating inclusive spaces, and providing resources that address the unique interests and concerns of different gender groups.
+
+Institutions and professional bodies should consider implementing gender-specific career development, mentoring, and support initiatives to address the unique needs, challenges, and opportunities faced by different gender groups within the librarian profession. Research has shown that women often face barriers to career advancement, such as gender bias and lack of access to mentorship opportunities [@Groves2021]. By providing targeted support and resources, such as mentoring programs and professional development opportunities, institutions can help address these barriers and promote gender equality in the profession.
+
+Regularly monitoring gender proportions and trends within the librarian profession is essential for evidence-based decision-making, policy development, and evaluation of gender-related initiatives. By collecting and analyzing data on gender representation, institutions and professional bodies can identify areas of improvement and track progress over time. This can inform the development of targeted interventions and policies that promote gender equality and ensure fair representation within the librarian profession.
+
+## Age Distribution
+
+```{r Boxplot Age, echo=FALSE, warning=FALSE}
+#| label: fig-age
+#| fig-cap: "Distribution of Responses: Age (n=646)"
+# Graph the data: boxplot + violin plot + dot plot
+dataset %>%
+filter(!is.na(age)) %>%
+filter(age > 20) %>%
+filter(age < 65) %>%
+ggplot(aes(x = 1, y = age)) + geom_violin(adjust=.7) + geom_boxplot(width = .1, fill = "black") + geom_dotplot(aes(y = age), binaxis = "y", binwidth = .4, stackdir = "center", alpha = .5) + stat_summary(fun = mean, geom = "point", fill = "white", shape = 21, size = 2.5) + coord_flip() + theme(axis.text.y = element_blank()) + xlab("Distribution") + ylab("Age")
+```
+
+The age distribution of librarians is diverse, with librarians falling into different age categories. This diversity brings the potential for fresh perspectives, energy, and adaptability, which can contribute to innovation and the ability to respond to changing trends and technologies in the field. Younger librarians may bring different skills and experiences, such as proficiency in digital technologies and social media, which can enhance the delivery of library services and engage younger library users.
+
+On the other hand, librarians in middle age and older adult categories bring experience, wisdom, and institutional memory to the profession [@Amoah2019]. These librarians have likely accumulated years of experience working in various library settings, which can contribute to mentorship opportunities for younger colleagues and the preservation of institutional knowledge. Additionally, librarians in these age groups may have developed specialized expertise in specific subject areas or library functions, which can be invaluable in providing high-quality services and resources to library users.
+
+Understanding the age distribution of librarians is crucial for planning future staffing needs and ensuring a balanced and sustainable workforce [@Kung2020]. By monitoring the age demographics within the profession, institutions can anticipate retirements and plan for succession, ensuring a smooth transition of knowledge and expertise. Additionally, monitoring age distribution can help identify potential gaps in staffing and inform recruitment strategies to attract individuals from underrepresented age groups. This proactive approach to workforce planning can help libraries adapt to the evolving demands of library services and ensure the continued provision of high-quality resources and support to library users.
+
+To make the most of the age diversity within the librarian community, institutions should consider implementing strategies to retain experienced librarians while attracting younger talent to the profession [@Couture2020]. Flexible working arrangements, such as part-time or remote work options, can appeal to older librarians considering retirement or seeking a better work-life balance. Continued education and professional development opportunities can also help retain librarians of all ages by providing opportunities for growth and skill enhancement. Additionally, leadership development programs can help cultivate the next generation of library leaders and ensure a smooth transition of knowledge and expertise.
+
+By understanding the interests, needs, and preferences of different age groups within the librarian community, librarians can develop targeted programs and resources that resonate with their specific demographics [@Deeming2001]. This age diversity can create a more inclusive and responsive library environment that meets the community's diverse needs. For example, younger librarians may be well-positioned to develop innovative programming for children and teens. In comparison, older librarians may have the expertise to curate collections and services for older adults.
+
+## Location and Geographic Representation
+
+The higher concentration of librarians in urban areas, such as the National Capital Region, can be attributed to educational institutions, libraries, and information centers. Urban areas often have a higher demand for library services due to the larger population and the presence of universities, colleges, and research institutions that rely on libraries for their academic and research needs. This reflects the need for adequate library resources and services to support these densely populated areas' educational and information needs.
+
+On the other hand, the differences in the distribution of librarians across regions may indicate disparities in access to library services, resources, and professional development opportunities. Rural and remote areas often face limited funding, infrastructure, and resources, which can impact the availability and quality of library services [@Real2014]. These disparities can result in unequal access to information and educational opportunities for individuals residing in these regions.
+
+Understanding the geographic distribution of librarians is crucial for informing policies, planning, resource allocation, and collaboration efforts to ensure equitable access and development across regions. By identifying areas with a lower concentration of librarians, policymakers and library administrators can allocate resources and develop strategies to improve library services in these underserved regions [@DeGuzman2021]. This can include initiatives such as mobile libraries, outreach programs, and partnerships with community organizations to extend library services to remote areas. Additionally, collaboration between libraries in different regions can facilitate sharing resources, expertise, and best practices, leading to improved services and outcomes for library users.
+
+Efforts to support librarians in regions with fewer professionals can enhance outreach, inclusion, diversity, and impact. Libraries in underserved areas can promote literacy, lifelong learning, and community development. By providing resources, training, and support to librarians in these areas, libraries can strengthen their capacity to meet the unique needs of their communities. This can include initiatives such as mentorship programs, grants for professional development, and partnerships with local organizations to expand the reach and impact of library services [@Mohammed2019].
+
+Emphasizing digital access, online resources, and virtual services can bridge geographic gaps and enhance library services across regions. The advancement of technology has provided opportunities for libraries to extend their reach beyond physical locations and offer digital resources and services to users in remote areas. This can include online databases, e-books, virtual reference services, and digital literacy programs. By leveraging digital technologies, libraries can overcome geographical barriers and ensure individuals in all regions can access the information and resources they need [@Real2014].
+
+## Linguistic Diversity
+
+The fact that most librarians in the Philippines speak Filipino highlights the linguistic diversity and inclusion within the librarian community. This linguistic diversity reflects the importance of the national language in communication, services, and engagement within the profession. It also signifies the recognition and celebration of the various languages and cultures present in the Philippines.
+
+Speaking Filipino can significantly enhance service delivery, accessibility, and relevance to a broader audience. Communicating in the national language allows librarians to effectively engage with native speakers and individuals with limited proficiency in other languages. This linguistic capability ensures that library services are accessible and inclusive to all community members, regardless of their language background.
+
+Understanding and utilizing the Filipino language and culture can foster cultural sensitivity, relevance, and connections within the librarian profession. Librarians knowledgeable about the Filipino language and culture can better understand the needs and preferences of their community members. This understanding enables librarians to develop culturally relevant programs, services, and resources that resonate with the local community, leading to increased community engagement, collaboration, and impact.
+
+Recognizing librarians' linguistic preferences and capabilities can guide professional development, training, resources, and collaboration efforts. Institutions and professional bodies can provide opportunities for librarians to enhance their multilingual skills and knowledge through language courses, workshops, and cultural immersion experiences. This professional development can equip librarians with the skills needed to effectively serve diverse linguistic communities and contribute to the overall growth and development of the profession.
+
+Insights into linguistic diversity can support research, innovation, outreach, and the development of inclusive library services. By understanding library users' linguistic preferences and needs, librarians can tailor their services and resources better to meet the diverse linguistic needs of their communities. This can increase user satisfaction, engagement, and impact within the library profession.
+
+\newpage
+
+| Variable                    |                      | Population Estimate |
+|:----------------------------|:---------------------|:-------------------:|
+| Type of Librarian           |                      |                     |
+|                             | Academic             |         59%         |
+|                             | School               |         24%         |
+|                             | Special              |         12%         |
+|                             | Public               |         5%          |
+| Primary Role                |                      |                     |
+|                             | Specialized Roles    |         83%         |
+|                             | Generic Roles        |         10%         |
+|                             | Academic Roles       |         7%          |
+| Position                    |                      |                     |
+|                             | Diverse Position     |         78%         |
+|                             | One-Person Librarian |         9%          |
+|                             | Structured           |         7%          |
+|                             | Team                 |         6%          |
+| Years of Service and Tenure |                      |                     |
+|                             | 0-4                  |         38%         |
+|                             | 5-9                  |         22%         |
+|                             | 10-14                |         17%         |
+|                             | 15-19                |         11%         |
+|                             | 20-24                |         9%          |
+|                             | 25-29                |         2%          |
+|                             | 30 or more           |         1%          |
+| Tenure                      |                      |                     |
+|                             | Permanent            |         77%         |
+|                             | Contractual          |         18%         |
+|                             | Job Order            |         2%          |
+|                             | Self-employed        |         2%          |
+|                             | Volunteer            |         1%          |
+| Professional Affiliation    |                      |                     |
+|                             | PAARL                |         12%         |
+|                             | PASLI                |         3%          |
+|                             | ASLP                 |         2%          |
+|                             | MAHLAP               |         1%          |
+|                             | ALPS                 |         1%          |
+
+: \
+*Professional Landscape*{#tbl-professional}
+
+## Types of Libraries
+
+The distribution of librarians across different library types reflects libraries' diverse roles and importance in various sectors. Many librarians work in academic libraries, highlighting the importance of libraries in higher education, research, and scholarly pursuits [@Bandyopadhyay2016]. Librarians in school libraries play a crucial role in supporting educational goals, literacy, and learning at the school level. Special libraries focus on specific subjects, industries, or organizations, showcasing specialized expertise and services within the librarian community. Although fewer in proportion, public librarians play a vital role in community engagement, accessibility, and public services [@Morgan2016].
+
+Understanding these different library types can guide professional development, collaboration, and innovation tailored to the diverse needs, potentials, and challenges of each setting. Policymakers, professional bodies, and institutions should consider policies, resources, support, and partnerships that recognize, enhance, and balance these library types. Insights into library types can foster research, innovation, outreach, and services that embrace and leverage libraries' diverse roles, impacts, and potentials. Emphasizing digital services, accessibility, and virtual engagement across library types can enhance transformation, relevance, and reach.
+
+## Primary Job Positions and Roles
+
+The dominance of specialized roles among librarians in the Philippines, accounting for 83% of the identified positions, highlights librarians' versatility and unique expertise. Librarians with technical roles possess in-depth knowledge and skills in research support, data management, archiving, and instructional design. Their expertise enables them to provide specialized services and resources that meet library users' diverse needs and support their institutions' goals.
+
+Representing academic roles among librarians in the Philippines suggests significantly integrating the librarianship profession with academia. This is evident through the "Researcher" and "University Instructor" functions. The presence of these roles indicates that librarians are actively involved in research and teaching, contributing to the academic mission of their institutions. This integration highlights the potential for librarians to make substantial contributions to scholarly pursuits, knowledge creation, and educational support within the academic community.
+
+The presence of generic roles, representing 10% of the identified positions, suggests that some librarians in the Philippines might have less clearly defined roles or encompass a broad set of responsibilities. This raises questions about role clarity, expectations, and potential training needs to ensure librarians can effectively handle their multifaceted tasks. Institutions may need to provide clear job descriptions, establish role expectations, and offer professional development opportunities to enhance librarians' effectiveness and job satisfaction [@Spencer2018].
+
+## Years of Service
+
+```{r Boxplot Years of Service, echo=FALSE}
+#| label: fig-service
+#| fig-cap: "Distribution of Responses: Years of Service (n=648)"
+# Graph the data: boxplot + violin plot + dot plot
+dataset %>%
+filter(!is.na(years_service)) %>%
+filter(years_service < 35) %>%
+ggplot(aes(x = 1, y = years_service)) + geom_violin(adjust=.8) + geom_boxplot(width = .1, fill = "black") + geom_dotplot(aes(y = years_service), binaxis = "y", binwidth = .19, stackdir = "center", alpha = .5) + stat_summary(fun = mean, geom = "point", fill = "white", shape = 21, size = 2.5) + coord_flip() + theme(axis.text.y = element_blank()) + xlab("Distribution") + ylab("Years of Service")
+```
+
+Many newcomers in the librarian field indicate a dynamic entry of professionals into the profession. This suggests that the librarian profession continues to attract individuals who are interested in the area and see growth opportunities within it. The evolving role of libraries and the increasing importance of information management may contribute to the profession's appeal. The potential for career advancement and specialization may also attract newcomers to the field.
+
+The presence of mid-career and experienced librarians highlights the stability and growth potential within the profession. This suggests that librarians have a stable career path with opportunities for professional development, specialization, and leadership roles. Librarians at these stages of their careers have gained valuable experience and expertise, contributing to the overall growth and advancement of the profession [@Vassilakaki2015].
+
+Although a smaller group, veterans play a vital role in mentorship, knowledge transfer, and upholding professional standards and ethics. Their experience and wisdom are valuable assets to the profession, and they can provide guidance and support to newer librarians. Mentorship programs and initiatives can be developed to facilitate the transfer of knowledge and expertise from veterans to the next generation of librarians [@Goodsett2015].
+
+Understanding the distribution of years of service among librarians is essential for workforce planning, talent management, and succession planning. This information can guide institutions in ensuring a balanced and sustainable workforce by identifying areas where there may be a shortage or surplus of librarians. It can also inform strategies for talent development, recruitment, and retention.
+
+Tailored professional development programs, training, and support should be designed to meet librarians' unique needs and aspirations at different career stages. Newcomers may require foundational training and mentorship, while mid-career and experienced librarians may benefit from advanced professional development opportunities and leadership training [@Cassner2006]. Institutions and professional bodies should provide resources and support to help librarians continuously develop their skills and stay updated with emerging trends and technologies.
+
+Institutions should consider engagement and retention strategies that recognize and value the contributions of librarians at different career stages. This can include providing opportunities for professional growth, creating a supportive work environment, and offering competitive compensation and benefits. Recognizing the value of newer and seasoned professionals can contribute to a positive and inclusive workplace culture.
+
+Professional bodies and policymakers should advocate for policies, incentives, and support mechanisms that nurture the growth and well-being of librarians throughout their career lifecycle. This can include advocating for fair employment practices, promoting work-life balance, and ensuring access to professional development opportunities. By supporting librarians' needs, professional bodies and policymakers can contribute to the overall advancement and recognition of the profession.
+
+## Tenure
+
+The distribution of tenure types among librarians reflects different employment models within the librarian field. Librarians may have permanent tenure, indicating a stable and committed workforce. Contractual and job order tenures also remember flexible and project-based employment models. Librarians in these employment models may have the flexibility to work on specific projects or initiatives, contributing their expertise to different institutions or organizations. Additionally, there is a self-employed category, which suggests entrepreneurial opportunities within the librarian field. Librarians may engage in independent professional practice, consultancy work, or entrepreneurial endeavors related to information management, research, or specialized services. Finally, there is a small percentage of librarians in the volunteer category, emphasizing the potential for community engagement, advocacy, and voluntary contributions within the librarian community. Librarians may engage in volunteer work, community outreach programs, or social causes, demonstrating their commitment to serving the broader community and promoting access to information and knowledge.
+
+Understanding the distribution of tenure types among librarians can guide talent management, workforce planning, recruitment strategies, and retention initiatives. Institutions can develop strategies to attract and retain librarians in different employment models, recognizing each tenure type's unique needs and opportunities. This can include providing tailored support, benefits, and professional development opportunities that align with the specific employment arrangements. Institutions and professional bodies should consider tailored professional development, mentoring, and support initiatives that acknowledge the unique needs and opportunities of different tenure types. Addressing the needs of librarians at different tenure types, institutions, and professional bodies can contribute to their professional growth and job satisfaction. Policymakers should also consider regulations, labor standards, and advocacy efforts that ensure fair employment practices, benefits, and working conditions across different tenure arrangements. By promoting equitable employment practices, policymakers can contribute to a more inclusive and supportive work environment for librarians.
+
+## Professional Affiliation
+
+Librarians in the Philippines are part of a diverse and vibrant community, as evidenced by multiple professional associations. These associations provide librarians with opportunities to connect with colleagues, share knowledge, and stay updated on the latest developments in the field. They serve as platforms for collaboration, advocacy, and professional development within the librarian community. Through these affiliations, librarians can collaborate on projects, share best practices, and collectively advocate for the interests and needs of the profession. The associations also play a crucial role in setting professional standards, promoting research and innovation, and providing continuing education and training opportunities.
+
+The presence of specialized associations related to academic, medical, public sector, or special libraries highlights librarians' diverse roles and responsibilities in different settings and sectors. These associations provide a space for librarians to exchange knowledge, discuss sector-specific challenges and opportunities, and develop specialized skills. They cater to librarians' specific needs and interests in these areas of librarianship.
+
+Policymakers and professional bodies should recognize the importance of these associations and consider policies, support, and partnerships that value and enhance their activities. This recognition can lead to developing policies that support professional development, provide resources, and foster collaboration between associations and other stakeholders. Policymakers can also work with professional bodies to ensure that the contributions of librarians and their associations are recognized and valued within the broader context of the information profession.
+
+Understanding these affiliations can guide targeted professional development, training, resources, and collaboration opportunities that align with the librarian community's diverse professional paths and potentials. Professional associations are crucial in providing access to training programs, workshops, conferences, and other learning opportunities catering to librarians' specific needs and interests. By leveraging these affiliations, librarians can enhance their skills, expand their professional networks, and stay updated on emerging trends and best practices.
+
+Insights into these affiliations can also foster community engagement, outreach, and initiatives that address the needs and aspirations of the broader community. Through their partnerships, librarians can develop programs and services that promote literacy, contribute to social and cultural development, and collaborate with other professionals and stakeholders to make a difference in people's lives.
+
+\newpage
+
+| Variable                                  |                                 | Population Estimate |
+|:----------------------------|:-----------------------|:-----------------:|
+| Educational Attainment                    |                                 |                     |
+| Bachelor's Degree                         |                                 |                     |
+|                                           | BLIS                            |         52%         |
+|                                           | non-BLIS                        |         5%          |
+| Master's Degree                           |                                 |                     |
+|                                           | MLIS                            |         34%         |
+|                                           | non-MLIS                        |         5%          |
+| Doctorate Degree                          |                                 |                     |
+|                                           | Ph.D                            |         3%          |
+|                                           | Juris Doctor                    |         1%          |
+| Enrolment and Future Education Plans      |                                 |                     |
+|                                           | Library and Information Science |         42%         |
+|                                           | Management and Leadership       |         21%         |
+|                                           | Information Technology          |         15%         |
+|                                           | Others                          |         22%         |
+| Continuing Professional Development (CPD) |                                 |                     |
+| Sources of CPD                            |                                 |                     |
+|                                           | Workshops and Seminars          |         55%         |
+|                                           | University Courses              |         27%         |
+|                                           | Online Platforms                |         18%         |
+| Support for CPD                           |                                 |                     |
+|                                           | Employer Support                |         70%         |
+|                                           | Personal Funds                  |         30%         |
+| Barriers to CPD                           |                                 |                     |
+|                                           | Financial Constraints           |         62%         |
+|                                           | Lack of Time                    |         23%         |
+|                                           | Lack of Opportunities           |         15%         |
+| CPD Topics of Interest                    |                                 |                     |
+|                                           | Information Technology          |         23%         |
+|                                           | Research Skills                 |         18%         |
+|                                           | Management and Leadership       |         18%         |
+
+: \
+*Education and Professional Development*{#tbl-education}
+
+## Educational Attainment
+
+Librarianship requires specialized education and training to manage and access information effectively. Degrees in Library and Information Science (BLIS and MLIS) provide individuals with the necessary skills to handle tasks ranging from traditional book lending to digital archiving. These degrees ensure that librarians are well-equipped to navigate the complexities of the field.
+
+Advanced degrees, such as an MLIS or Ph.D., indicate a more profound expertise and specialization within the profession. Librarians with advanced degrees may engage in research, specialize in specific forms of information management, or contribute academically to the field. These degrees demonstrate a commitment to understanding the intricacies and nuances of librarianship.
+
+Diverse educational backgrounds among librarians can enhance the services provided by libraries. For example, a librarian with a Juris Doctor degree may be uniquely positioned to assist with legal research or manage a law library. Also, "Sound knowledge of some competencies specific for medical libraries is an additional requirement for library personnel" [@Ullah2012]. This diversity of educational backgrounds allows libraries to cater to the needs of diverse communities and offer specialized services.
+
+Professional development and continuing education are essential in librarianship due to the constantly evolving nature of the profession. Librarians must stay updated with new media and information to remain relevant and efficient in the digital age. Emphasizing continual learning ensures that libraries can adapt to changing technologies and meet the needs of their users.
+
+Understanding the librarian's diverse educational backgrounds and specializations can aid recruitment and talent management. Institutions can leverage this knowledge to identify individuals with specific expertise and develop interdisciplinary projects or services. This approach promotes collaboration and innovation within the field.
+
+Policies, standards, and accreditation play a crucial role in defining the profession of librarianship. By focusing on these aspects, the field can ensure a consistent and high level of service across various libraries and information centers. This standardization helps maintain the quality and integrity of library services.
+
+Librarians with advanced degrees often take on leadership roles within libraries and academic institutions. Their deep knowledge and expertise enable them to guide the profession forward, develop new strategies, and contribute significantly to research that enhances the field of librarianship. These individuals play a vital role in shaping the future of the profession.
+
+## Enrolment and Future Education Plans
+
+Librarians recognize the importance of continuing education and professional development to stay updated in a rapidly evolving field. They emphasize enhancing their skills and knowledge, with statistics showing that many librarians actively pursue further education [@Yu2018]. This commitment to continuous learning reflects the dynamic nature of information and how it is accessed and stored.
+
+The field of librarianship acknowledges the need for diverse educational opportunities. Librarians can access various platforms and methods for skill and knowledge enhancement, including pursuing advanced degrees or obtaining certifications in specialized areas [@Corcoran2014]. This availability of multiple educational avenues ensures that librarians can tailor their learning experiences to their specific interests and career goals.
+
+Librarianship encompasses various specialties, allowing individuals to choose diverse learning pathways. The profession recognizes that education extends beyond traditional classrooms and offers opportunities for online learning, seminars, and hands-on workshops. This flexibility in learning options accommodates different learning styles and preferences [@Pinfield2001].
+
+Balancing work, life, and education can be challenging, but librarians are committed to continuous learning by pursuing additional education while working. Supportive environments that recognize and accommodate this dedication are crucial, such as offering flexible hours or sabbatical leaves [@Reddy2010]. Institutions should value and encourage the pursuit of education alongside professional responsibilities.
+
+Continuous education enhances current skills and opens doors to career growth and mobility within librarianship. Librarians who engage in lifelong learning can explore new roles, leadership positions, or specialized departments, leading to a more dynamic and enriching career trajectory.
+
+Policy, support, and collaboration from organizations and policymakers are essential to fostering a continuous learning culture. Scholarships, partnerships between universities and libraries, and other initiatives can encourage and facilitate educational pursuits. These efforts ensure that educational opportunities are accessible, inspired, and beneficial for librarians [@Hinrichs2020].
+
+Quality assurance and accreditation are crucial to ensure that educational programs for librarians are highly quality and recognized. Accreditation assures that the time and resources invested in education lead to meaningful and universally recognized qualifications. This recognition is essential for both individual librarians and the profession.
+
+Acknowledging and catering to librarians' diverse backgrounds, learning styles, and needs promotes inclusion and tailors educational programs to their specific requirements. Inclusive programs create a sense of belonging and ensure that learning is effective and resonant. Educational institutions should strive to create inclusive environments that meet the diverse needs of librarians.
+
+## Continuing Professional Development (CPD)
+
+Diverse Sources of CPD: The landscape of professional development opportunities for librarians is mixed, with respondents engaging in CPD from various sources, including private entities, government, and in-house training. This reflects the availability of different avenues for professional education and development. Private sector engagement is significant, with many librarians relying on private entities and corporations for CPD. This highlights the role of the private sector in providing support and resources for professional development in the field of librarianship. Government-facilitated trainings are also prevalent, indicating governmental support and collaboration in professional development. This demonstrates the commitment of the government to invest in the continuous learning and skill enhancement of librarians. In-house training within the workplace is another vital source of CPD, emphasizing the importance of constant learning and development as part of the work environment.
+
+Accessibility and Relevance: Understanding the diverse sources of CPD can help design and deliver more accessible, relevant, and quality CPD programs tailored to the needs and interests of librarians. By recognizing the different sources of support, policymakers, professional bodies, and educational institutions can develop policies, collaborations, and innovations that enhance the value, recognition, and impact of CPD. Efforts to engage, inform, and support librarians who have not yet attended CPD training or did not specify their sources can enhance participation, awareness, and benefits of CPD.
+
+Possible Implications: The diverse sources of support for CPD indicate a multifaceted support landscape for librarians, including personal funding, workplace support, and government programs. Many librarians personally fund their CPD, highlighting self-motivation, personal commitment, and possible challenges in accessing sponsored support. Private workplace sponsorship emphasizes organizational investment, alignment, and support for professional development. Government support, including scholarships and free training, highlights public investment and efforts to make CPD accessible and affordable. Understanding the diverse sources of support can help identify challenges, gaps, opportunities, and potentials in providing CPD support. Policymakers, professional bodies, employers, and educational institutions can consider policies, collaborations, innovations, and incentives that enhance CPD support, relevance, quality, and inclusion. Addressing these barriers and providing tailored support mechanisms can foster a culture of lifelong learning, resilience, adaptability, and professional excellence within the librarian community.
+
+\newpage
+
+| Variable                               |                                    | Population Estimate |
+|:--------------------------|:-------------------------|:-----------------:|
+| Types of Materials Handled and Managed |                                    |                     |
+|                                        | Books                              |         22%         |
+|                                        | Theses and Dissertations           |         12%         |
+|                                        | Electronic materials               |         11%         |
+|                                        | Institutional files and records    |         10%         |
+|                                        | Archives                           |         4%          |
+|                                        | Law materials and resources        |         3%          |
+|                                        | Datasets                           |         2%          |
+|                                        | Combinations of multiple materials |         36%         |
+| Services                               |                                    |                     |
+|                                        | Managerial                         |         9%          |
+|                                        | Administrative                     |         6%          |
+|                                        | User-service                       |         4%          |
+|                                        | Technical                          |         3%          |
+|                                        | Combination of multiple services   |         78%         |
+
+: \
+*Materials and Services*{#tbl-materials}
+
+## Types of Materials Handled and Managed
+
+The dominance of electronic materials in Philippine libraries suggests that many patrons still rely on or prefer digital texts. Therefore, librarians should maintain, update, and expand their digital collections. However, they also need to consider digital preservation techniques for these materials.
+
+The significant presence of physical materials in libraries indicates the ongoing importance of hardcopy resources. This aligns with global trends where physical resources are still widely used. To adapt to this diversity, librarians need to invest in physical and digital infrastructure, platforms for resource access, and provide training for staff and patrons on using different types of resources.
+
+The importance of institutional files and records signifies the role of libraries as keepers of institutional memory and history. Particular attention should be given to archiving, cataloging, and digitizing these records to ensure their preservation and accessibility.
+
+While archives have a lower frequency than other materials, they are crucial for research, history, and cultural preservation. Efforts should be made to maintain physical archives and consider possibilities for digitization to make them more accessible to a broader audience.
+
+The wide range of materials mentioned, even outside the top categories, suggests diverse needs among patrons. Therefore, librarians should regularly solicit feedback from patrons to understand and cater to evolving needs.
+
+Considering the rich history and diverse cultures across the islands of the Philippines, libraries should also view local content, languages, and cultural materials in their collections. This is especially important for libraries in different regions or serving specific communities.
+
+## Services
+
+The significant presence of respondents in administrative roles suggests that administrative tasks, including budgeting, HR, and policy-making, are central to many librarians' roles in the Philippines [@Gibbons2021]. Training and professional development in administrative competencies might be essential to ensure effective library administration.
+
+User services remain a core function in libraries, assisting patrons in finding information and using library resources. To enhance user services, emphasis on up-to-date reference materials and training in digital reference services might be beneficial [@Foster2004].
+
+Many respondents in managerial roles indicate a possible hierarchical structure in many libraries or a multi-role responsibility for some librarians. Management training, leadership workshops, and courses on team dynamics can be considered to support these professionals.
+
+Although technical services may not be the most common primary job, they remain crucial in libraries to ensure that materials are correctly classified and accessible. Continuous training in modern cataloging practices, mainly digital cataloging, would be beneficial for librarians involved in technical services.
+
+\newpage
+
+| Variable               |                                                 | Population estimate |
+|:-----------------|:----------------------------------|:-----------------:|
+| Gross salary per month |                                                 |                     |
+|                        | ₱11,000 - ₱20,000                               |         36%         |
+|                        | ₱21,000 - ₱30,000                               |         37%         |
+|                        | ₱31,000 - ₱40,000                               |         13%         |
+|                        | ₱41,000 - ₱50,000                               |         3%          |
+|                        | Greater than ₱50,000                            |         11%         |
+| Benefits               |                                                 |                     |
+|                        | Paid Vacation and Sick Leaves                   |         66%         |
+|                        | Health Card and Insurance Other Than PhilHealth |         38%         |
+|                        | Monetary Allowances                             |         36%         |
+|                        | Free Shuttle Service                            |         5%          |
+|                        | Night Differential Pay                          |         4%          |
+|                        | None                                            |         16%         |
+
+: \
+*Financial Landscape*{#tbl-financial}
+
+## Salary Distribution
+
+```{r Boxplot Gross Salary, echo=FALSE}
+#| label: fig-salary
+#| fig-cap: "Distribution of Responses: Gross Salary (n=508)"
+# Graph the data: boxplot + violin plot + dot plot
+dataset %>%
+filter(!is.na(gross_salary)) %>%
+filter(gross_salary > 10) %>%
+filter(gross_salary < 65) %>%
+ggplot(aes(x = 1, y = gross_salary)) + geom_violin(adjust=2) + geom_boxplot(width = .1, fill = "black") + geom_dotplot(aes(y = gross_salary), binaxis = "y", binwidth = .5, stackdir = "center", alpha = .5) + stat_summary(fun = mean, geom = "point", fill = "white", shape = 21, size = 2.5) + coord_flip() + theme(axis.text.y = element_blank()) + xlab("Distribution") + ylab("Gross Salary")
+```
+
+Analyzing the salary groups of librarians can provide insights into various aspects of the profession. One implication is related to equity and fairness. If a significant number of librarians fall into the lower salary groups, it could indicate that many librarians may not be fairly compensated for their skills and contributions. This raises the need for advocacy for improved salaries and benefits, especially if many librarians earn below a living wage [@Al-Shawabkeh2011].
+
+Salary is also a critical component of job satisfaction and retention. If many librarians are in lower salary brackets, it could lead to dissatisfaction and higher turnover rates. Institutions may need to review compensation packages and consider other benefits to improve retention [@Ikonne2015].
+
+Another implication is related to professional development. Librarians in higher salary groups might have had more opportunities for professional development or possess specializations that justify higher pay [@Cooke2012]. On the other hand, those in lower brackets might lack resources for further training. To address this, libraries or professional associations might consider offering scholarships, grants, or subsidized training.
+
+The salary groups also have implications for attracting new talent. If starting salaries are not competitive, it could deter potential candidates from considering a career in librarianship. Efforts to highlight other benefits of the profession, such as job satisfaction, growth opportunities, or community impact, might help attract new talent [@Wilkinson2016].
+
+Furthermore, the overall economic well-being of librarians can influence their ability to engage with and contribute to their communities effectively [@Vega2007]. Understanding this can strengthen the case for better compensation in negotiations with policymakers or institutional leaders.
+
+## Benefits
+
+Access to benefits is essential to employee welfare and well-being in the librarian profession. According to a study, approximately 75.76% of librarians have access to some form of benefits. This reflects the organizational commitment to providing support to employees. Most librarians also have access to paid vacation and sick leaves (66.35%) and health insurance (37.88%), contributing to work-life balance and health support. These provisions are crucial for maintaining librarians' well-being and ensuring they have support.
+
+Monetary support is another crucial aspect of benefits for librarians. Over one-third of librarians receive monetary allowances (35.97%), which offer financial assistance and incentives. This can help alleviate financial burdens and provide additional motivation for librarians in their work.
+
+However, it is worth noting that there are disparities and challenges in access to benefits within the librarian profession. A significant proportion of librarians reported either "NONE / Not Applicable" (16.51%) or "Without Benefits" (16.37%). This highlights the need for further examination of benefit practices and the identification of potential barriers to access.
+
+Fewer librarians receive complimentary shuttle service (5.26%) and night differential pay (4.09%) regarding specific benefits. These numbers reflect the specific employment conditions and practices within the profession.
+
+Understanding benefit distribution is essential for guiding policy formulation, labor standards, and advocacy efforts to ensure equitable access to critical benefits and support mechanisms. Benefits packages can also influence librarians' recruitment, retention, motivation, and job satisfaction. Therefore, organizations must strategically align benefit packages with industry trends and employee needs.
+
+Further analysis by institution type, tenure, salary level, and other factors may provide nuanced insights into benefit practices and disparities within the librarian profession. This can help identify areas for improvement and inform targeted interventions to address inequities.
+
+\newpage
+
+# Conclusion
+
+The University of the Philippines School of Library and Information Studies survey underscores the importance of collecting accurate and comprehensive population statistics on librarians in the Philippines. With a sample size of 684 librarians, this study represents the country's first wide-scale census of the librarian workforce. The data provides critical insights into Filipino librarians' demographics, education, skills, and needs. As highlighted in this paper, such population statistics are invaluable for data-driven policymaking, effective resource allocation, and the strategic development of library education and services. This survey establishes an essential baseline for future progress by illuminating the profession's current state. The results affirm the value of evidence-based, statistics-guided decision-making to advance librarianship across diverse library types. More broadly, the findings showcase the merits of rigorous data collection and analysis, not just for individual professions but also for the national good. As the library landscape evolves, sustained efforts to regularly update population statistics will be crucial. Overall, this pioneering study on Philippine librarians paves the way for a culture of research and statistics-based planning to flourish within the country's library and information sector.
+
+## Summary of Key Findings
+
+### Demographics of Librarians in the Philippines
+
+-   Gender Distribution: The librarian profession in the Philippines is predominantly female, with 78% identifying as female, 17% as male, 4% with diverse SOGIE, and 1% preferring not to disclose their gender. The gender imbalance raises concerns about equal opportunities and representation since women are often underrepresented in leadership roles. The presence of librarians with diverse SOGIE underscores the need for an inclusive environment, as these individuals may face unique workplace challenges. Addressing these disparities requires strategies promoting gender equality, understanding gender proportions, and implementing gender-specific career development initiatives. Regular monitoring of gender proportions is crucial for informed decision-making.
+
+-   Age Distribution: The age distribution among librarians is varied, with 44% aged between 21-30, 30% between 31-40, 18% between 41-50, 7% between 51-60, and 1% above 60. This diversity offers a mix of fresh perspectives and accumulated experience. Younger librarians might bring digital proficiency, while older librarians contribute institutional memory and specialized expertise. Understanding this distribution is essential for future staffing needs, succession planning, and ensuring a balanced workforce. Institutions should focus on retaining experienced librarians and attracting younger talent.
+
+-   Location and Geographic Representation: A significant 41% of librarians are located in the National Capital Region (NCR), followed by 36% in Luzon, 13% in Visayas, and 10% in Mindanao. The higher concentration in urban areas like NCR is due to the demand from educational and research institutions. However, disparities in librarian distribution across regions might indicate unequal access to library services, especially in rural areas. Addressing these disparities requires targeted resource allocation, outreach programs, and collaborations. Emphasizing digital access can also help bridge these geographic gaps.
+
+-   Linguistic Diversity: Most (79%) of librarians in the Philippines have Filipino as their first language, emphasizing linguistic diversity and the importance of the national language in the profession. Speaking Filipino enhances service delivery and accessibility to a broader audience. Recognizing and utilizing the Filipino language fosters cultural sensitivity and relevance. Institutions should offer opportunities for librarians to improve their multilingual skills, which can lead to more inclusive library services.
+
+### Professional Landscape
+
+-   Types of Libraries: Most librarians in the Philippines work in academic settings, accounting for 59% of the profession. This underscores the significance of libraries in higher education and research. School librarians, making up 24%, play pivotal roles in fostering literacy and learning. At 12%, special libraries cater to niche subjects or organizations, while public librarians, though fewer at 5%, are instrumental in community outreach and public services. Recognizing these diverse library types can guide tailored professional development and innovation, emphasizing the need for digital services and virtual engagement across all library types.
+
+-   Primary Job Positions and Roles: 83% of librarians hold specialized roles, showcasing their unique research support and data management expertise. The 7% in academic roles highlight the integration of librarianship with academia, suggesting their active involvement in research and teaching. 10% in generic functions indicates a broad set of responsibilities, emphasizing the need for clear role definitions and training.
+
+-   Years of Service: The librarian profession in the Philippines sees a dynamic influx of newcomers, with 38% having 0-4 years of service. This indicates the profession's appeal to new entrants. The presence of mid-career and veteran librarians suggests stability and growth within the profession. Understanding the distribution of years of service is vital for workforce planning, talent management, and succession planning. Tailored professional development programs should be designed to cater to librarians at different career stages.
+
+-   Tenure: A majority of librarians, 77%, have permanent tenure, indicating a stable workforce. Other tenure types like contractual, job order, and self-employed reflect the profession's diverse employment models. The presence of volunteers in the librarian field emphasizes community engagement and advocacy. Recognizing these different tenure types can guide talent management strategies and ensure fair employment practices across all tenure arrangements.
+
+-   Professional Affiliation: Librarians in the Philippines are affiliated with various professional associations, offering opportunities for networking, knowledge sharing, and professional development. These affiliations are crucial in setting professional standards and promoting research and innovation. Policymakers and professional bodies should recognize and support these associations, fostering collaboration and enhancing the profession's activities.
+
+### Education and Professional Development
+
+-   Educational Attainment: The field of librarianship in the Philippines is marked by a strong emphasis on specialized education. 52% of librarians have a Bachelor's in Library and Information Science (BLIS), while 34% have pursued a Master's in the same field (MLIS). Advanced degrees, like the MLIS or Ph.D., underscore a more profound commitment to the profession, with these individuals often taking on leadership roles or engaging in research. The presence of librarians with degrees like the Juris Doctor highlights the versatility of the profession, allowing for specialized services in areas like legal research. The diverse educational backgrounds among librarians can significantly enhance the range and quality of library services.
+
+-   Enrolment and Future Education Plans: Librarians in the Philippines demonstrate a commitment to continuous learning. Many are pursuing further education in Library and Information Science, Management and Leadership, and Information Technology. This dedication to ongoing education reflects the dynamic nature of the information landscape and the need for librarians to stay updated. Institutions that support and accommodate this dedication, such as by offering flexible hours or sabbaticals, can foster a culture of continuous learning and professional growth.
+
+-   Continuing Professional Development (CPD): Librarians access professional development from various sources, including workshops, university courses, and online platforms. The private sector plays a significant role in providing CPD opportunities, highlighting the collaboration between the corporate world and the field of librarianship. Government-facilitated training underscores the state's commitment to the professional development of librarians. In-house employee training emphasizes the importance of continuous learning within the workplace. Understanding these diverse sources can guide the creating more tailored and relevant CPD programs. The varied sources of support for CPD, including personal funds, employer support, and government programs, indicate a multifaceted landscape of backing for librarians. Addressing barriers to CPD, such as financial constraints or lack of time, and providing tailored support can foster a culture of lifelong learning and excellence within the librarian community.
+
+### Types of Materials and Services in Philippine Libraries
+
+-   Types of Materials Handled and Managed: Philippine libraries showcase a blend of both digital and physical materials. The prominence of electronic materials indicates a shift towards digital resources, necessitating librarians to focus on digital preservation and expansion. However, the continued relevance of physical materials like books and theses underscores the enduring value of tangible resources. Libraries play a pivotal role as custodians of institutional memory, as evidenced by the significance of institutional files and records. While archives might not be as frequently managed as other materials, their importance for research and cultural preservation cannot be understated. Given the Philippines' rich cultural tapestry, libraries should prioritize local content and materials that reflect the nation's diverse heritage.
+
+-   Services: Administrative tasks are central to many librarians in the Philippines, highlighting the need for training in administrative competencies. User services, which focus on assisting patrons, remain at the heart of library functions. The presence of librarians in managerial roles suggests either a hierarchical structure in libraries or that some librarians juggle multiple responsibilities. This underscores the importance of management and leadership training. Even though technical services might not be the predominant role for many, they are essential for classifying and making materials accessible, emphasizing the need for ongoing training, especially in digital cataloging.
+
+### Financial Landscape of Librarians in the Philippines:
+
+-   Salary Distribution: The salary distribution among librarians in the Philippines reveals a significant concentration in the lower to mid-range salary brackets. A combined 73% of librarians earn between ₱11,000 to ₱30,000 monthly. This could suggest potential issues of equity and fairness in compensation. Such a distribution might impact job satisfaction, potentially leading to higher turnover rates. The salary brackets also hint at the importance of professional development, as those in higher salary groups might possess specialized skills or have had more growth opportunities. The implications of these salary distributions could also affect the attraction of new talent to the profession. If starting salaries are not competitive, it might deter potential candidates from considering librarianship as a viable career. The overall economic well-being of librarians can significantly influence their capacity to serve and engage with their communities effectively.
+
+-   Benefits: Most librarians in the Philippines have access to benefits, reflecting organizational commitment to employee welfare. The most common benefits include paid vacation, sick leaves, and health insurance, essential for maintaining a work-life balance and ensuring health support. Monetary allowances provided to over a third of librarians offer additional financial relief. However, there is a notable portion of librarians without any benefits, highlighting disparities within the profession. Specific benefits like shuttle services and night differential pay are less common, reflecting particular employment conditions. Understanding the distribution of benefits can guide policy decisions and labor standards. Institutions must align their benefits packages with industry trends and the needs of their employees to ensure recruitment, retention, and overall job satisfaction.
+
+## Implications for the Librarian Profession in the Philippines
+
+The librarian profession in the Philippines boasts a rich tapestry of individuals from diverse backgrounds, ages, and genders. This diversity, which brings forth a range of experiences, perspectives, and approaches, has the potential to reshape service delivery, collection curation, and community engagement. Moreover, the profession is undergoing a metamorphosis, with librarians diversifying their roles. They are no longer limited to traditional responsibilities but have become integral players in information management, organizational planning, and societal interaction. The emphasis on continual learning underscores their dedication to remaining updated and pertinent in an era marked by rapid technological shifts and evolving user needs. Philippine libraries also exemplify a balanced approach to material management, seamlessly integrating electronic resources with cherished physical ones. This caters to a diverse user base and ensures the diligent preservation of the nation's invaluable history and cultural narrative. However, the profession also grapples with financial disparities. These discrepancies can decrease morale, influence job satisfaction, and increase turnover rates. It is imperative to realize that ensuring fairness in treatment and compensation is not just an ethical obligation but also crucial for the profession's vitality and sustainability.
+
+## Recommendations for Policy, Education, Practice, Collaboration, and Innovation
+
+For the librarian profession in the Philippines to flourish and continue drawing in the brightest talents, compensation structures must be reconsidered and realigned with local and international standards. Policymakers, together with institutional leaders, should actively collaborate to make this a reality. Simultaneously, the rapidly changing landscape of information dissemination necessitates libraries forming partnerships with educational institutions. Such alliances could pave the way for curating modern courses focusing on digital literacy, cutting-edge archival techniques, and novel user engagement methodologies. A consistent feedback mechanism, where patrons play an active role, can usher in a more user-centric library environment, ensuring services and collections evolve based on user preferences. There is also a massive potential for libraries to join hands with educational bodies. Joint research initiatives, resource curation, and event co-hosting can amplify their collective impact on society. Finally, innovation should be at the heart of the librarian profession. By weaving in technologies like augmented reality, AI, and digital archiving, libraries can significantly enhance user experiences and ensure they remain central to learning and information in the modern age.
+
+# Disclosure Statement of Absence of Conflict of Interest
+
+The authors of this document hereby declare that there are no conflicts of interest regarding the publication of this work. This declaration is made with the understanding that a conflict of interest is defined as any situation where personal, financial, or other considerations may potentially influence or appear to influence professional judgment and objectivity.
+
+We affirm that:
+
+-   There have been no financial or personal relationships with other people or organizations that could inappropriately influence or bias the content and findings of this work.
+-   There are no affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this work.
+-   All potential sources of conflict, whether actual or perceived, have been disclosed and reviewed, and none were found to be relevant to this work.
+-   This statement is provided to maintain transparency and uphold the integrity of our work, ensuring that all findings and conclusions are derived from unbiased, objective analysis and research.
+
+\newpage
+
+# Appendix
+
+Printed is the environment and software versions used to create this document.
+
+```{r}
+sessionInfo()
+```
+
+\newpage
+
+# Reference
